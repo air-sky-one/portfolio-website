@@ -1,0 +1,76 @@
+body
+{
+	margin:0;
+    padding:0;
+	background-color: black;
+}
+
+/* L'en-tête */
+#header
+{
+	background-color: white;
+	border: 0px;
+}
+#header_image
+{
+	width: 100%;
+	height: 465px;
+	background: url("img/header.png") center;
+	text-indent: -9000px;
+    background-repeat: no-repeat;
+}
+#alexandrekerbage
+{
+	margin: auto;
+	margin-top: -15px;
+}
+#alexandre
+{
+	background-color: transparent;
+	color: white;
+	font-size: 52px;
+	font-family: Arial;
+}
+#kerbage
+{
+	background-color: transparent;
+	color: red;
+	font-size: 52px;
+	font-family: Arial;
+}
+#subtitle
+{
+	color: gray;
+	text-align: right;
+	font-family: Arial;
+	font-style: italic;
+}
+
+/* Le corps */
+#main_content
+{
+	margin-left: 1%;
+    width: 97%;
+    background-color: black;
+    border: 0px solid #222222;
+    padding: 5px;
+    margin-bottom:1%;
+}
+#mail
+{
+	width:120px;
+	height:120px;
+	background: url("images/mail.png") center;
+}
+#mail:hover
+{
+	width:120px;
+	height:120px;
+	background: url("images/mail_hover.png") center;
+}
+a
+{
+	color: transparent;
+	font-size: 38px;
+	text-align: center;
+}

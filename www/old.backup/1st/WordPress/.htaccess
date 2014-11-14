@@ -1,0 +1,2 @@
+SetEnv PHP_VER 5_TEST
+AddDefaultCharset utf-8 
